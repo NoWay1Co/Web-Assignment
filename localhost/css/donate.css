@@ -1,0 +1,789 @@
+[class~=helps]>[class~=content]>[class~=side][class~=two]>[class~=particle][class~=one] {
+	width: 6vh;
+}
+[class~=helps]>[class~=content]>[class~=side][class~=two]>[class~=particle][class~=one], [class~=helps]>[class~=content]>[class~=particle][class~=one] {
+	height: 3vh;
+}
+[class~=helps]>[class~=content]>[class~=particle][class~=one] {
+	width: 3vh;
+}
+[class~=helps]>[class~=content]>[class~=side][class~=one]>form>[class~=form-back]>[class~=input]>input, .helps>.content>.side.one>form>button {
+	outline: none;
+}
+[class~=helps]>[class~=content]>[class~=side][class~=one]>[class~=particle], [class~=helps]>[class~=content]>[class~=side][class~=one]>form>[class~=alert-wrapper]>[class~=alert]>[class~=icon], [class~=helps]>[class~=content]>[class~=particle] {
+	background-size: contain;
+}
+[class~=helps]>[class~=content]>[class~=side][class~=one]>form>[class~=form-back]>[class~=input]>input {
+	width: 90%;
+}
+[class~=helps]>[class~=content]>[class~=side][class~=one]>form>[class~=alert-wrapper]>[class~=alert], [class~=helps]>[class~=content]>[class~=side][class~=one]>form>[class~=form-back]>[class~=input]>input, [class~=helps], [class~=helps]>[class~=content]>[class~=side][class~=one]>form>[class~=alert-wrapper]>[class~=alert]>[class~=icon] {
+	height: 100%;
+}
+[class~=helps]>[class~=content]>[class~=side][class~=one]>form>[class~=alert-wrapper], [class~=helps]>[class~=content]>[class~=side][class~=one]>[class~=particle] {
+	position: absolute;
+}
+[class~=helps]>[class~=content]>[class~=side][class~=one]>form>[class~=form-back]>[class~=input]>input {
+	border-left-width: medium;
+}
+[class~=helps]>[class~=content]>[class~=side][class~=one]>form>[class~=form-back]>[class~=input]>select>option {
+	cursor: pointer;
+}
+[class~=helps]>[class~=content]>[class~=side][class~=one]>form>[class~=form-back]>[class~=input]>input {
+	border-bottom-width: medium;
+}
+.helps>.content>.side.one>form>.form-back>.accept>a>h3:hover {
+	text-decoration: underline;
+}
+[class~=helps]>[class~=content]>[class~=side][class~=one]>form>[class~=alert-wrapper]>[class~=alert]>[class~=icon] {
+	width: 7%;
+}
+[class~=helps]>h2 {
+	color: black;
+}
+[class~=helps]>[class~=content]>[class~=side][class~=one]>form>[class~=alert-wrapper]>[class~=alert]>[class~=icon], [class~=helps]>[class~=content]>[class~=side][class~=one]>[class~=particle], [class~=helps]>[class~=content]>[class~=particle] {
+	background-repeat: no-repeat;
+}
+[class~=helps]>[class~=content]>[class~=side][class~=one]>form>[class~=form-back]>[class~=input]>input {
+	border-right-width: medium;
+}
+[class~=helps]>[class~=content]>[class~=side][class~=one]>form>[class~=form-back]>[class~=input]>input {
+	border-top-width: medium;
+}
+[class~=helps]>[class~=content]>[class~=side][class~=one]>form>[class~=alert-wrapper]>[class~=alert], [class~=helps]>[class~=content]>[class~=side][class~=one]>form, [class~=helps]>[class~=content]>[class~=side][class~=one]>form>[class~=alert-wrapper]>[class~=alert]>[class~=texts], [class~=helps]>[class~=content] {
+	display: flex;
+}
+[class~=helps]>[class~=content]>[class~=side][class~=one]>form>[class~=form-back]>[class~=input]>input {
+	border-left-style: none;
+}
+[class~=helps]>[class~=content]>[class~=particle], [class~=helps]>[class~=content]>[class~=side][class~=one]>form>[class~=alert-wrapper]>[class~=alert]>[class~=icon], [class~=helps]>[class~=content]>[class~=side][class~=one]>[class~=particle] {
+	background-position: center;
+}
+[class~=helps]>[class~=content]>[class~=side][class~=one]>form>[class~=form-back]>[class~=input]>input {
+	border-bottom-style: none;
+}
+[class~=helps]>[class~=content]>[class~=side][class~=one]>form>[class~=form-back]>[class~=input]>input {
+	border-right-style: none;
+}
+[class~=helps]>[class~=content]>[class~=side][class~=one]>form>[class~=form-back]>[class~=input]>input {
+	border-top-style: none;
+}
+[class~=helps]>[class~=content]>[class~=side][class~=two]>[class~=particle][class~=one], [class~=helps]>[class~=content]>[class~=side][class~=one]>form>[class~=alert-wrapper][class~=active] {
+	top: -7vh;
+}
+[class~=helps]>[class~=content]>[class~=side][class~=one]>form>[class~=alert-wrapper]>[class~=alert]>[class~=texts]>h3, [class~=helps]>[class~=content]>[class~=side][class~=one]>form>[class~=alert-wrapper]>[class~=alert]>[class~=texts]>h2, [class~=helps]>[class~=content]>[class~=side][class~=one]>form>[class~=form-back]>[class~=accept]>a>h3 {
+	color: white;
+}
+[class~=helps]>[class~=content]>[class~=side][class~=two]>[class~=particle][class~=one] {
+	background-image: url("../img/main/particles/particle-1.png");
+}
+.helps>.content>.side.one>form>button {
+	background: linear-gradient(to right, rgba(243, 55, 106, 1), rgba(255, 129, 190, 1));
+}
+[class~=helps]>[class~=content]>[class~=side][class~=one]>[class~=particle] {
+	z-index: 0;
+}
+[class~=helps]>[class~=content]>[class~=side][class~=one]>form>[class~=form-back]>[class~=input]>input {
+	border-left-color: currentColor;
+}
+[class~=helps]>[class~=content]>[class~=side][class~=one]>form>[class~=alert-wrapper]>[class~=alert] {
+	position: relative;
+}
+[class~=helps]>[class~=content]>[class~=side][class~=one]>form>[class~=alert-wrapper], [class~=helps]>[class~=content]>[class~=side][class~=one]>form>[class~=alert-wrapper]>[class~=alert] {
+	width: 100%;
+}
+[class~=helps]>[class~=content]>[class~=side][class~=one]>form>[class~=form-back]>[class~=accept]>a>h3, [class~=helps]>[class~=content]>[class~=side][class~=one]>form>[class~=alert-wrapper]>[class~=alert]>[class~=texts]>h3, [class~=helps]>[class~=content]>[class~=side][class~=one]>form>[class~=alert-wrapper]>[class~=alert]>[class~=texts]>h2 {
+	font-family: GothamPro;
+}
+[class~=helps]>[class~=content]>[class~=side][class~=one]>form>[class~=alert-wrapper]>[class~=alert]>[class~=texts]>h2 {
+	font-weight: 300;
+}
+[class~=helps]>[class~=content]>[class~=particle][class~=one] {
+	background-image: url("../img/main/particles/particle-4.png");
+}
+[class~=helps]>[class~=content]>[class~=side][class~=one]>form>[class~=form-back]>[class~=input]>input {
+	border-bottom-color: currentColor;
+}
+[class~=helps]>[class~=content]>[class~=side][class~=one]>form>[class~=alert-wrapper] {
+	left: 0;
+}
+[class~=helps]>[class~=content]>[class~=side][class~=one]>form>[class~=alert-wrapper]>[class~=alert]>[class~=icon] {
+	background-image: url("../img/icons/alert.svg");
+}
+[class~=helps]>[class~=content]>[class~=side][class~=one]>form>[class~=alert-wrapper] {
+	top: 0;
+}
+[class~=helps]>[class~=content]>[class~=side][class~=one]>form>[class~=alert-wrapper]>[class~=alert]>[class~=texts], [class~=helps]>[class~=content]>[class~=side][class~=one]>form>[class~=alert-wrapper]>[class~=alert]>[class~=icon] {
+	margin-left: 2vh;
+}
+[class~=helps]>[class~=content]>[class~=side][class~=one]>[class~=particle] {
+	width: 3vh;
+}
+[class~=helps]>[class~=content]>[class~=side][class~=one]>form>[class~=alert-wrapper]>[class~=alert]>[class~=texts]>h2 {
+	font-size: 1.5vh;
+}
+[class~=helps]>[class~=content]>[class~=side][class~=one]>form>[class~=form-back]>[class~=input]>input {
+	border-right-color: currentColor;
+}
+[class~=helps]>[class~=content]>[class~=side][class~=one]>form>[class~=alert-wrapper]>[class~=alert] {
+	background: #f66;
+}
+[class~=helps]>[class~=content]>[class~=particle][class~=one] {
+	top: 5vh;
+}
+[class~=helps]>[class~=content]>[class~=side][class~=one]>form>[class~=form-back]>[class~=input]>input {
+	border-top-color: currentColor;
+}
+[class~=helps]>[class~=content]>[class~=side][class~=two]>[class~=particle][class~=one] {
+	left: 10vh;
+}
+[class~=helps]>[class~=content]>[class~=side][class~=one]>form>[class~=form-back]>[class~=input], [class~=helps]>[class~=content], [class~=helps]>[class~=content]>[class~=side][class~=one]>form>[class~=alert-wrapper]>[class~=alert] {
+	flex-direction: row;
+}
+[class~=helps]>[class~=content]>[class~=side][class~=one]>[class~=particle] {
+	height: 5vh;
+}
+[class~=helps]>[class~=content]>[class~=side][class~=one]>form>[class~=alert-wrapper]>[class~=alert]>[class~=texts], [class~=helps]>[class~=content]>[class~=side][class~=one]>form {
+	flex-direction: column;
+}
+[class~=helps]>[class~=content]>[class~=side][class~=one]>form>[class~=alert-wrapper]>[class~=alert]>[class~=texts]>h2, [class~=helps]>[class~=content]>[class~=side][class~=one]>form>[class~=form-back]>[class~=input]>input, [class~=helps]>[class~=content]>[class~=side][class~=one]>form>[class~=alert-wrapper]>[class~=alert]>[class~=texts]>h3 {
+	text-align: left;
+}
+[class~=helps]>[class~=content]>[class~=side][class~=one]>form>[class~=form-back]>[class~=input]>input {
+	border-image: none;
+}
+[class~=helps]>[class~=content]>[class~=side][class~=one]>[class~=particle] {
+	background-image: url("../img/main/particles/particle-5.png");
+}
+[class~=helps]>[class~=content]>[class~=side][class~=two]>[class~=particle][class~=one] {
+	transform: scaleY(-1);
+}
+[class~=helps]>[class~=content]>[class~=side][class~=one]>form>[class~=form-back]>[class~=input]>input {
+	background: transparent;
+}
+[class~=helps]>[class~=content]>[class~=side][class~=one]>form>[class~=alert-wrapper]>[class~=alert]>[class~=texts]>h3 {
+	font-weight: 200;
+}
+[class~=helps]>[class~=content]>[class~=side][class~=one]>form>[class~=alert-wrapper]>[class~=alert]>[class~=texts]>h3 {
+	font-size: 1.15vh;
+}
+[class~=helps]>[class~=content]>[class~=side][class~=two]>[class~=particle][class~=two] {
+	width: 5vh;
+}
+[class~=helps]>[class~=content]>[class~=side][class~=one]>[class~=particle] {
+	top: 8vh;
+}
+[class~=helps]>[class~=content]>[class~=side][class~=one]>form>[class~=alert-wrapper]>[class~=alert]>[class~=texts] {
+	justify-content: flex-start;
+}
+[class~=helps]>[class~=content]>[class~=side][class~=one]>form>[class~=alert-wrapper]>[class~=alert]>[class~=texts] {
+	align-items: flex-start;
+}
+[class~=helps]>[class~=content]>[class~=side][class~=one]>form>[class~=alert-wrapper]>[class~=alert]>[class~=texts] {
+	width: 93%;
+}
+.helps>.content>.side.one>form>.form-back>.accept>a>h3:hover {
+	cursor: pointer;
+}
+[class~=helps]>[class~=content]>[class~=side][class~=one]>form>[class~=alert-wrapper] {
+	display: none;
+}
+[class~=helps]>[class~=content]>[class~=side][class~=one]>form>[class~=alert-wrapper]>[class~=alert]>[class~=texts] {
+	padding-right: 2vh;
+}
+[class~=helps]>[class~=content]>[class~=side][class~=two]>[class~=particle][class~=two] {
+	height: 10vh;
+}
+[class~=helps]>[class~=content]>[class~=side][class~=one]>form>[class~=alert-wrapper]>[class~=alert], [class~=helps]>[class~=content] {
+	justify-content: center;
+}
+[class~=helps]>[class~=content]>[class~=side][class~=one]>form>[class~=alert-wrapper]>[class~=alert] {
+	align-items: center;
+}
+[class~=helps]>[class~=content]>[class~=side][class~=one]>form>[class~=alert-wrapper] {
+	height: 7vh;
+}
+[class~=helps]>[class~=content]>[class~=side][class~=one]>form>[class~=form-back]>[class~=input]>[class~=icon] {
+	width: 10%;
+}
+[class~=helps]>[class~=content]>[class~=side][class~=one]>form>[class~=form-back]>[class~=input]>input {
+	padding-left: 1vh;
+}
+[class~=helps]>[class~=content]>[class~=side][class~=one]>form>[class~=alert-wrapper]>[class~=alert]>[class~=texts]>h3 {
+	margin-top: .2vh;
+}
+[class~=helps]>[class~=content]>[class~=side][class~=one]>form>[class~=form-back]>[class~=input] {
+	width: 85%;
+}
+[class~=helps]>[class~=content]>[class~=side][class~=one]>form>[class~=form-back]>[class~=input] {
+	display: flex;
+}
+[class~=helps]>[class~=content]>[class~=particle][class~=one] {
+	right: -15vh;
+}
+[class~=helps]>[class~=content]>[class~=side][class~=one]>form>[class~=form-back]>[class~=input]>input {
+	padding-right: 1vh;
+}
+[class~=helps]>[class~=content]>[class~=side][class~=one]>form>[class~=form-back]>[class~=input]>input {
+	font-family: OpenSans;
+}
+[class~=helps]>[class~=content]>[class~=side][class~=one]>form>[class~=form-back]>[class~=accept]>a>h3, [class~=helps]>[class~=content]>[class~=side][class~=one]>form>[class~=form-back]>[class~=input]>input {
+	font-weight: 300;
+}
+[class~=helps]>[class~=content]>[class~=side][class~=one]>form>[class~=alert-wrapper] {
+	transition: top 300ms ease;
+}
+[class~=helps]>[class~=content]>[class~=side][class~=one]>form>[class~=form-back] {
+	width: 100%;
+}
+[class~=helps]>[class~=content]>[class~=side][class~=one]>form>[class~=form-back] {
+	background-size: cover;
+}
+[class~=helps]>[class~=content]>[class~=side][class~=two]>[class~=particle], [class~=helps]>[class~=content]>[class~=side][class~=one]>form>[class~=form-back], [class~=helps]>[class~=content]>[class~=side][class~=one]>form>[class~=form-back]>[class~=input]>[class~=icon] {
+	background-repeat: no-repeat;
+}
+[class~=helps]>[class~=content]>[class~=side][class~=one]>form>[class~=form-back]>[class~=input]>input {
+	font-size: 1.4vh;
+}
+[class~=helps]>[class~=content]>[class~=side][class~=one]>form>[class~=form-back]>[class~=input]>input {
+	color: black;
+}
+[class~=helps]>[class~=content]>[class~=side][class~=one]>form>[class~=form-back], [class~=helps]>[class~=content]>[class~=side][class~=one]>form>[class~=form-back]>[class~=input]>[class~=icon], [class~=helps]>[class~=content]>[class~=side][class~=two]>[class~=particle] {
+	background-position: center;
+}
+.helps>.content>.side.one>form>button, [class~=helps]>[class~=content]>[class~=side][class~=one]>form>[class~=form-back]>[class~=input]>select {
+	border-left-width: medium;
+}
+[class~=helps]>[class~=content]>[class~=side][class~=one]>form>[class~=form-back]>[class~=input]>select {
+	width: 90%;
+}
+[class~=helps]>[class~=content]>[class~=side][class~=one]>form>[class~=form-back]>[class~=input]>[class~=icon] {
+	height: 35%;
+}
+[class~=helps]>[class~=content]>[class~=side][class~=two]>[class~=particle], [class~=helps]>[class~=content]>[class~=side][class~=one]>form>[class~=form-back]>[class~=input]>[class~=icon] {
+	background-size: contain;
+}
+[class~=helps]>[class~=content]>[class~=side][class~=one]>[class~=particle] {
+	left: -7vh;
+}
+[class~=helps]>[class~=content]>[class~=side][class~=one]>form>[class~=form-back]>[class~=input]>select {
+	height: 100%;
+}
+[class~=helps]>[class~=content]>[class~=side][class~=one]>form, [class~=helps]>[class~=content]>[class~=side][class~=one]>form>[class~=form-back]>[class~=input] {
+	justify-content: flex-start;
+}
+[class~=helps]>[class~=content]>[class~=side][class~=one]>form>[class~=form-back]>[class~=input]>select, .helps>.content>.side.one>form>button {
+	border-bottom-width: medium;
+}
+[class~=helps]>[class~=content]>[class~=side][class~=one]>form>[class~=form-back]>[class~=input]>select {
+	outline: none;
+}
+[class~=helps]>[class~=content]>[class~=side][class~=one]>form>[class~=form-back]>[class~=input]>[class~=icon] {
+	padding-left: 1.5vh;
+}
+[class~=helps]>[class~=content]>[class~=side][class~=one]>form>[class~=form-back]>[class~=input]>select, .helps>.content>.side.one>form>button {
+	border-right-width: medium;
+}
+.helps>.content>.side.one>form>button, [class~=helps]>[class~=content]>[class~=side][class~=one]>form>[class~=form-back]>[class~=input]>select {
+	border-top-width: medium;
+}
+.helps>.content>.side.one>form>button, [class~=helps]>[class~=content]>[class~=side][class~=one]>form>[class~=form-back]>[class~=input]>select {
+	border-left-style: none;
+}
+[class~=helps]>h2 {
+	font-family: GothamPro;
+}
+.helps>.content>.side.one>form>.form-back>.accept>.check {
+	width: 1.5vh;
+}
+[class~=helps]>[class~=content]>[class~=side][class~=one]>form>[class~=form-back]>[class~=input]>select, .helps>.content>.side.one>form>button {
+	border-bottom-style: none;
+}
+[class~=helps]>[class~=content]>[class~=side][class~=one]>form>[class~=alert-wrapper]>[class~=alert]>[class~=texts]>h3 {
+	line-height: 1.2;
+}
+[class~=helps]>[class~=content] {
+	align-items: flex-start;
+}
+[class~=helps]>[class~=content]>[class~=side][class~=one]>form>[class~=form-back] {
+	background-image: url("../img/help/help-back.png");
+}
+.helps>.content>.side.one>form>button, [class~=helps]>[class~=content]>[class~=side][class~=one]>form>[class~=form-back]>[class~=input]>select {
+	border-right-style: none;
+}
+.helps>.content>.side.one>form>.form-back>.accept>.check {
+	height: 1.5vh;
+}
+.helps>.content>.side.one>form>button, [class~=helps]>[class~=content]>[class~=side][class~=one]>form>[class~=form-back]>[class~=input]>select {
+	border-top-style: none;
+}
+[class~=helps]>[class~=content]>[class~=particle], [class~=helps]>[class~=content]>[class~=side][class~=two]>[class~=particle] {
+	z-index: 0;
+}
+.helps>.content>.side.one>form>.form-back>.accept>.check {
+	border-radius: 50%;
+}
+[class~=helps]>h2 {
+	font-weight: 500;
+}
+[class~=helps]>[class~=content], .helps>.content>.side.one>form>.end-info>p.two>span[name='rub'] {
+	position: relative;
+}
+.helps>.content>.side.one>form>.form-back>.accept>.check {
+	border-left-width: .2vh;
+}
+.helps>.content>.side.one>form>button, [class~=helps]>[class~=content]>[class~=side][class~=one]>form>[class~=form-back]>[class~=input]>select {
+	border-left-color: currentColor;
+}
+[class~=helps]>[class~=content]>[class~=side][class~=one]>form>[class~=form-back]>[class~=input]>select, .helps>.content>.side.one>form>button {
+	border-bottom-color: currentColor;
+}
+[class~=helps]>[class~=content]>[class~=side][class~=one]>form>[class~=form-back]>[class~=input]>select {
+	border-right-color: currentColor;
+}
+[class~=helps]>[class~=content]>[class~=side][class~=one]>form>[class~=form-back]>[class~=input]>select {
+	border-top-color: currentColor;
+}
+[class~=helps]>[class~=content]>[class~=side][class~=one]>form>[class~=form-back]>[class~=accept]>[class~=check]:after {
+	opacity: 0;
+}
+[class~=helps]>[class~=content]>[class~=side][class~=one]>form>[class~=form-back]>[class~=accept]>[class~=check]:after {
+	transition: opacity 250ms ease;
+}
+[class~=helps]>[class~=content]>[class~=side][class~=one]>form, [class~=helps]>[class~=content]>[class~=side][class~=one]>form>[class~=form-back]>[class~=input] {
+	align-items: center;
+}
+.helps>.content>.side.one>form>.form-back>.accept>.check {
+	border-bottom-width: .2vh;
+}
+[class~=helps]>[class~=content]>[class~=particle], [class~=helps]>[class~=content]>[class~=side][class~=one]>form>[class~=form-back]>[class~=accept]>[class~=check]:after {
+	position: absolute;
+}
+.helps>.content>.side.one>form>.end-info>p.two>span[name='rub'] {
+	top: -1.5vh;
+}
+[class~=helps]>[class~=content]>[class~=side][class~=two]>[class~=particle][class~=two] {
+	background-image: url("../img/main/particles/particle-1.png");
+}
+[class~=helps]>[class~=content]>[class~=side][class~=one]>form>[class~=form-back]>[class~=input]>select {
+	border-image: none;
+}
+[class~=helps]>[class~=content]>[class~=side], [class~=helps]>[class~=content]>[class~=side][class~=one]>form>[class~=end-info], [class~=helps]>[class~=content]>[class~=side][class~=one]>form>[class~=form-back]>[class~=accept], [class~=helps]>[class~=content]>[class~=side][class~=one]>form>[class~=form-back] {
+	display: flex;
+}
+[class~=helps]>[class~=content]>[class~=side][class~=one]>form>[class~=form-back]>[class~=input]>select {
+	background: transparent;
+}
+[class~=helps]>[class~=content]>[class~=side][class~=one]>form>[class~=form-back]>[class~=input]>select {
+	text-align: left;
+}
+[class~=helps]>[class~=content]>[class~=side][class~=one]>form>[class~=form-back]>[class~=input][name='server']>[class~=icon] {
+	background-image: url("../img/icons/help/bars.svg");
+}
+[class~=helps]>[class~=content]>[class~=side][class~=one]>form>[class~=form-back]>[class~=accept]>[class~=check]:after {
+	content: "";
+}
+[class~=helps]>[class~=content]>[class~=side][class~=one]>form>[class~=form-back]>[class~=input]>select {
+	padding-left: 1vh;
+}
+[class~=helps]>[class~=content]>[class~=side][class~=one]>form>[class~=form-back]>[class~=input][name='name']>[class~=icon] {
+	background-image: url("../img/icons/help/user.svg");
+}
+[class~=helps]>[class~=content]>[class~=side][class~=one]>form>[class~=form-back]>[class~=input]>select {
+	padding-right: 1vh;
+}
+[class~=helps]>[class~=content]>[class~=side][class~=one]>form>[class~=form-back]>[class~=input]>select {
+	font-family: OpenSans;
+}
+[class~=helps]>[class~=content]>[class~=side][class~=one]>form>[class~=end-info]>p[class~=one], [class~=helps]>[class~=content]>[class~=side][class~=one]>form>[class~=form-back]>[class~=input]>select {
+	font-weight: 300;
+}
+[class~=helps]>[class~=content]>[class~=side][class~=one]>form>[class~=form-back]>[class~=input] {
+	background: white;
+}
+[class~=helps]>[class~=content]>[class~=side][class~=two]>[class~=particle][class~=two] {
+	bottom: 2vh;
+}
+[class~=helps]>[class~=content]>[class~=side][class~=one]>form>[class~=form-back]>[class~=input] {
+	margin-top: 3.5vh;
+}
+[class~=helps]>[class~=content]>[class~=side][class~=one]>form>[class~=form-back]>[class~=input]>select {
+	font-size: 1.4vh;
+}
+.helps>.content>.side.one>form>.form-back>.accept>.check {
+	border-right-width: .2vh;
+}
+[class~=helps]>[class~=content]>[class~=side][class~=one]>form>[class~=end-info]>p[class~=one], [class~=helps]>[class~=content]>[class~=side][class~=one]>form>[class~=form-back]>[class~=input]>select {
+	color: black;
+}
+[class~=helps]>[class~=content]>[class~=side][class~=one]>form>[class~=form-back]>[class~=accept]>[class~=check]:after {
+	width: 200%;
+}
+.helps>.content>.particle.two {
+	width: 2.5vh;
+}
+[class~=helps]>h2 {
+	font-size: 2.75vh;
+}
+[class~=helps]>[class~=content]>[class~=side][class~=one]>form>[class~=form-back]>[class~=input]>select {
+	padding-left: .5vh;
+}
+[class~=helps]>[class~=content]>[class~=side][class~=one]>form>[class~=form-back]>[class~=input]>select {
+	padding-right: .5vh;
+}
+[class~=helps]>h2, [class~=helps]>[class~=content]>[class~=side][class~=one]>form>[class~=end-info]>p[class~=one] {
+	text-align: center;
+}
+[class~=helps]>[class~=content]>[class~=side][class~=two]>[class~=particle][class~=two] {
+	right: -6vh;
+}
+[class~=helps]>[class~=content]>[class~=side][class~=one]>form>[class~=form-back]>[class~=input][name='sum']>[class~=icon] {
+	background-image: url("../img/icons/help/ruble.svg");
+}
+[class~=helps]>[class~=content]>[class~=side][class~=one]>form>[class~=form-back]>[class~=input] {
+	height: 5vh;
+}
+[class~=helps]>[class~=content]>[class~=side][class~=one]>form>[class~=form-back]>[class~=accept]>[class~=check]:hover, [class~=helps]>[class~=content]>[class~=side][class~=one]>form>[class~=form-back]>[class~=input]>select {
+	cursor: pointer;
+}
+[class~=helps]>[class~=content]>[class~=side][class~=one]>form>[class~=form-back]>[class~=accept]>a>h3 {
+	font-size: 1vh;
+}
+[class~=helps]>[class~=content]>[class~=side][class~=one]>form>[class~=form-back]>[class~=accept] {
+	width: 85%;
+}
+[class~=helps]>[class~=content] {
+	min-width: 50%;
+}
+[class~=helps]>[class~=content]>[class~=side], [class~=helps]>[class~=content]>[class~=side][class~=one]>form>[class~=form-back] {
+	flex-direction: column;
+}
+[class~=helps]>[class~=content]>[class~=side][class~=one]>form>[class~=form-back]>[class~=accept]>[class~=check]:after {
+	height: 200%;
+}
+.helps>.content>.particle.two {
+	height: 2.5vh;
+}
+.helps>.content>.side.one>form>button {
+	border-right-color: currentColor;
+}
+.helps>.content>.side.one>form>.form-back>.accept>.check {
+	border-top-width: .2vh;
+}
+[class~=helps]>[class~=content]>[class~=side][class~=one]>form>[class~=form-back]>[class~=accept]>a {
+	margin-left: 1vh;
+}
+[class~=helps]>[class~=content]>[class~=side][class~=two]>[class~=particle] {
+	position: absolute;
+}
+[class~=helps]>[class~=content]>[class~=side][class~=one]>form>[class~=end-info]>p[class~=two], [class~=helps]>[class~=content]>[class~=side][class~=one]>form>[class~=end-info]>p[class~=one], .helps>.content>.side.one>form>button {
+	font-family: GothamPro;
+}
+.helps>.content>.side.one>form>.form-back>.accept>.check {
+	border-left-style: solid;
+}
+[class~=helps]>[class~=content]>[class~=side], [class~=helps]>[class~=content]>[class~=side][class~=one]>form>[class~=form-back] {
+	justify-content: flex-start;
+}
+[class~=helps]>[class~=content] {
+	margin-top: 10vh;
+}
+.helps>.content>.side.one>form>.form-back>.accept>.check {
+	border-bottom-style: solid;
+}
+[class~=helps]>[class~=content]>[class~=side][class~=one]>form>[class~=end-info], [class~=helps]>[class~=content]>[class~=side][class~=one]>form>[class~=form-back], [class~=helps]>[class~=content]>[class~=side][class~=one]>form>[class~=form-back]>[class~=accept], [class~=helps]>[class~=content]>[class~=side] {
+	align-items: center;
+}
+[class~=helps]>[class~=content]>[class~=side][class~=one]>form>[class~=form-back]>[class~=accept]>[class~=check]:after {
+	top: 50%;
+}
+.helps>.content>.side.one>form>button {
+	border-top-color: currentColor;
+}
+.helps>.content>.side.one>form>button {
+	border-image: none;
+}
+[class~=helps]>[class~=content]>[class~=side][class~=one]>form>[class~=end-info]>p[class~=one], .helps>.content>.side.one>form>.end-info>p.two>span[name='rub'] {
+	font-size: 1.5vh;
+}
+[class~=helps]>[class~=content]>[class~=side][class~=one]>form>[class~=form-back]>[class~=accept], [class~=helps]>[class~=content]>[class~=side][class~=one]>form>[class~=end-info] {
+	flex-direction: row;
+}
+.helps>.content>.side.one>form>.form-back>.accept>.check {
+	border-right-style: solid;
+}
+.helps>.content>.side.one>form>button {
+	font-weight: 400;
+}
+.helps>.content>.side.one>form>.form-back>.accept>.check {
+	border-top-style: solid;
+}
+[class~=helps]>[class~=content]>[class~=side][class~=two]>[class~=particle][class~=two] {
+	transform: rotate(90deg);
+}
+[class~=helps]>[class~=content]>[class~=side][class~=one]>form>[class~=form-back]>[class~=accept]>[class~=check]:after {
+	left: 50%;
+}
+.helps>.content>.side.one>form>.form-back>.accept>.check {
+	border-left-color: white;
+}
+[class~=helps]>[class~=content]>[class~=side][class~=one]>form>[class~=form-back]>[class~=accept]>[class~=check]:after {
+	margin-top: -100%;
+}
+[class~=helps]>[class~=content]>[class~=side][class~=one]>form>[class~=end-info]>p[class~=one], [class~=helps]>[class~=content]>[class~=side][class~=one]>form>[class~=end-info]>p[class~=two] {
+	letter-spacing: .35vh;
+}
+[class~=helps]>[class~=content]>[class~=side][class~=one]>form>[class~=end-info]>p[class~=two] {
+	color: rgba(115, 217, 140, 1);
+}
+.helps>.content>.particle.two {
+	background-image: url("../img/main/particles/particle-2.png");
+}
+[class~=helps]>[class~=content]>[class~=side][class~=one]>form>[class~=end-info]>p[class~=two], .helps>.content>.side.one>form>button, [class~=helps]>[class~=content]>[class~=side][class~=one]>form>[class~=form-back], [class~=helps]>[class~=content]>[class~=side][class~=one]>form>[class~=end-info], [class~=helps]>[class~=content]>[class~=side], [class~=helps]>[class~=content]>[class~=side][class~=one]>form, .helps>.content>.side.one>form>.form-back>.accept>.check {
+	position: relative;
+}
+[class~=helps]>[class~=content]>[class~=side][class~=one]>form>[class~=end-info]>p[class~=two] {
+	font-weight: 500;
+}
+.helps>.content>.side.one>form>.form-back>.accept>.check.active {
+	background: white;
+}
+[class~=helps]>[class~=content]>[class~=side][class~=one]>form>[class~=end-info], .helps>.content>.side.one>form>button, [class~=helps]>[class~=content]>[class~=side][class~=one]>form {
+	width: 100%;
+}
+.helps>.content>.side.one>form>button {
+	font-size: 1.65vh;
+}
+.helps>.content>.side.one>form>button {
+	color: white;
+}
+[class~=helps]>[class~=content]>[class~=side][class~=one]>form>[class~=end-info]>p[class~=two] {
+	font-size: 3.25vh;
+}
+.helps>.content>.side.one>form>.form-back>.accept>.check {
+	border-bottom-color: white;
+}
+[class~=helps]>[class~=content]>[class~=side][class~=one]>form>[class~=end-info]>p[class~=two], [class~=helps]>[class~=content]>[class~=side][class~=one]>form>[class~=form-back]>[class~=accept]>a>h3 {
+	text-align: center;
+}
+.helps>.content>.particle.two {
+	bottom: -7vh;
+}
+.helps>.content>.side.one>form>.form-back>.accept>.check {
+	border-right-color: white;
+}
+[class~=helps]>[class~=content]>[class~=side][class~=one]>form>[class~=form-back]>[class~=accept]>[class~=check]:after {
+	margin-left: -100%;
+}
+[class~=helps]>[class~=content]>[class~=side][class~=one]>form>[class~=form-back]>[class~=accept] {
+	justify-content: center;
+}
+[class~=helps]>[class~=content]>[class~=side] {
+	width: 50%;
+}
+[class~=helps]>[class~=content]>[class~=side][class~=one]>form>[class~=form-back]>[class~=accept]>[class~=check]:after {
+	background-size: contain;
+}
+[class~=helps]>[class~=content]>[class~=side][class~=one]>form>[class~=form-back]>[class~=accept]>[class~=check]:after, [class~=helps] {
+	background-repeat: no-repeat;
+}
+.helps>.content>.particle.two {
+	left: 57%;
+}
+.helps>.content>.side.one>form>.form-back>.accept>.check {
+	border-top-color: white;
+}
+.helps>.content>.side.one>form>button, [class~=helps]>[class~=content]>[class~=side][class~=one]>form>[class~=form-back]>[class~=accept] {
+	margin-top: 3.5vh;
+}
+[class~=helps]>[class~=content]>[class~=side][class~=one]>form>[class~=end-info] {
+	justify-content: space-between;
+}
+.helps>.content>.side.one>form>.form-back>.accept>.check {
+	border-image: none;
+}
+.helps>.content>.side.one>form>.form-back>.accept>.check {
+	background: transparent;
+}
+[class~=helps]>[class~=content]>[class~=side][class~=one]>form>[class~=form-back]>[class~=accept] {
+	margin-bottom: 3.5vh;
+}
+[class~=helps]>[class~=content]>[class~=side][class~=one]>form>[class~=form-back]>[class~=accept]>[class~=check]:after {
+	background-position: center;
+}
+[class~=helps]>[class~=content]>[class~=side][class~=one]>form>[class~=form-back]>[class~=accept]>[class~=check]:after {
+	background-image: url("../img/icons/help/check.svg");
+}
+[class~=helps]>[class~=content]>[class~=side][class~=one]>form>[class~=end-info] {
+	margin-top: 7vh;
+}
+.helps>.content>.side.one>form>button {
+	padding-top: 2vh;
+}
+[class~=helps] {
+	background-color: white;
+}
+.helps>.content>.side.one>form>button {
+	padding-bottom: 2vh;
+}
+[class~=helps] {
+	background-size: cover;
+}
+.helps>.content>.side.one>form>.form-back>.accept>.check {
+	transition: background 250ms ease;
+}
+.helps>.content>.side.one>form>button {
+	overflow: hidden;
+}
+.helps>.content>.side.one>form>button {
+	transition: text-shadow 500ms ease, box-shadow 500ms ease;
+}
+.helps>.content>.side.one>form>button {
+	box-shadow: -.5vh 1vh 5vh .5vh rgba(255, 129, 190, .45);
+}
+[class~=helps]>[class~=content]>[class~=side][class~=one]>form>[class~=form-back]>[class~=accept]>a>h3 {
+	letter-spacing: .35vh;
+}
+[class~=helps]>[class~=content]>[class~=side][class~=one]>form>[class~=form-back]>[class~=accept]>[class~=check][class~=active]:after {
+	opacity: 1;
+}
+[class~=helps]>[class~=content]>[class~=side][class~=one]>form>[class~=form-back]>[class~=accept]>a>h3 {
+	line-height: 1.5;
+}
+[class~=helps] {
+	background-position: bottom;
+}
+[class~=helps] {
+	background-image: url("../img/help/background.png");
+}
+@keyframes blink {
+	from {
+		left: -15%;
+	}
+	to {
+		left: 115%;
+	}
+}
+[class~=helps]>[class~=content]>[class~=side][class~=two]>[class~=list]>[class~=string], [class~=helps]>[class~=content]>[class~=side][class~=two]>[class~=list] {
+	margin-top: 3.5vh;
+}
+.helps>.content>.side.one>form>button:after {
+	content: "";
+}
+[class~=helps]>[class~=content]>[class~=side][class~=two] {
+	margin-left: 7vh;
+}
+[class~=helps]>[class~=content]>[class~=side][class~=two]>[class~=list]>[class~=string]>h3, [class~=helps]>[class~=content]>[class~=side][class~=two]>h2, [class~=helps]>[class~=content]>[class~=side][class~=two]>[class~=list], [class~=helps]>[class~=content]>[class~=side][class~=two]>[class~=list]>[class~=string] {
+	width: 100%;
+}
+.helps>.content>.side.one>form>button:after {
+	background: linear-gradient(to right, transparent, rgba(255, 255, 255, .075), rgba(255, 255, 255, .125), rgba(255, 255, 255, .075), transparent);
+}
+[class~=helps]>[class~=content]>[class~=side][class~=two]>[class~=list]>[class~=string]>h3, [class~=helps]>[class~=content]>[class~=side][class~=two]>h2 {
+	color: black;
+}
+.helps>.content>.side.one>form>button:after {
+	position: absolute;
+}
+[class~=helps]>[class~=content]>[class~=side][class~=two]>[class~=list]>[class~=string]>h3, [class~=helps]>[class~=content]>[class~=side][class~=two]>h2 {
+	font-family: GothamPro;
+}
+[class~=helps]>[class~=content]>[class~=side][class~=two]>h2 {
+	font-weight: 500;
+}
+[class~=helps]>[class~=content]>[class~=side][class~=two]>[class~=list]>[class~=string]>h3 {
+	font-weight: 300;
+}
+.helps>.content>.side.one>form>button:hover {
+	cursor: pointer;
+}
+[class~=helps]>[class~=content]>[class~=side][class~=two]>[class~=list]>[class~=string]>h3 {
+	font-size: 1.15vh;
+}
+[class~=helps]>[class~=content]>[class~=side][class~=two]>[class~=list]>[class~=string]:first-child {
+	margin-top: 0;
+}
+[class~=helps]>[class~=content]>[class~=side][class~=two]>h2, [class~=helps]>[class~=content]>[class~=side][class~=two]>[class~=list]>[class~=string]>h3 {
+	text-align: left;
+}
+[class~=helps]>[class~=content]>[class~=side][class~=two]>[class~=list] {
+	display: flex;
+}
+.helps>.content>.side.one>form>button:after {
+	left: -15%;
+}
+.helps>.content>.side.one>form>button:after {
+	top: 0;
+}
+[class~=helps]>[class~=content]>[class~=side][class~=two]>[class~=list] {
+	flex-direction: column;
+}
+[class~=helps]>[class~=content]>[class~=side][class~=two]>[class~=list]>[class~=string]>h3, [class~=helps]>[class~=content]>[class~=side][class~=two]>h2 {
+	letter-spacing: .5vh;
+}
+.helps>.content>.side.one>form>button:after {
+	width: 15%;
+}
+.helps>.content>.side.one>form>button:hover {
+	text-shadow: 0 0 .1vw rgba(255, 255, 255, .5);
+}
+.helps>.content>.side.one>form>button:after {
+	height: 110%;
+}
+[class~=helps]>[class~=content]>[class~=side][class~=two]>h2 {
+	font-size: 1.75vh;
+}
+.helps>.content>.side.one>form>button:after {
+	transform: skew(-15deg);
+}
+[class~=helps]>[class~=content]>[class~=side][class~=two]>[class~=list] {
+	justify-content: flex-start;
+}
+[class~=helps]>[class~=content]>[class~=side][class~=two]>[class~=list] {
+	align-items: flex-start;
+}
+.helps>.content>.side.one>form>button:hover {
+	box-shadow: -.5vh 1vh 5vh .5vh rgba(255, 129, 190, .55);
+}
+[class~=helps]>[class~=content]>[class~=side][class~=one]>form>button:hover:after {
+	animation: blink 500ms 1 ease;
+}
+@media screen and (max-device-aspect-ratio: 4/3) {
+	.helps>.content {
+		width: 70%;
+	}
+}
+@media screen and (orientation: portrait) {
+	[class~=helps]>[class~=content]>[class~=side] {
+		width: 100%;
+	}
+	[class~=helps]>[class~=content]>[class~=side][class~=two] {
+		margin-top: 5vh;
+	}
+	[class~=particle] {
+		display: none;
+	}
+	[class~=helps] {
+		height: auto;
+	}
+	[class~=helps]>[class~=content]>[class~=side][class~=two]>h2, [class~=helps]>[class~=content]>[class~=side][class~=two]>[class~=list]>[class~=string]>h3 {
+		text-align: center;
+	}
+	[class~=helps] {
+		padding-top: 10vh;
+	}
+	[class~=helps]>[class~=content]>[class~=side][class~=two]>[class~=list] {
+		align-items: center;
+	}
+	[class~=helps]>[class~=content] {
+		flex-direction: column;
+	}
+	[class~=helps]>[class~=content]>[class~=side][class~=two] {
+		margin-bottom: 5vh;
+	}
+	[class~=helps]>[class~=content]>[class~=side][class~=two] {
+		margin-left: 0;
+	}
+	[class~=helps]>[class~=content] {
+		width: 90%;
+	}
+}
